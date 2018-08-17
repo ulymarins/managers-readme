@@ -13,7 +13,6 @@ If I do something that negatively impacts my ability to retain you, you would be
 Some bullets to illustrate:
 
 * I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
-* 
 * I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us; I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do.
 * I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the company.
 * I do a bunch of things here, very few of them are more important than spending time talking with you if you want to talk with me. Feel entirely free to put time on my calendar to talk whenever you want. 
