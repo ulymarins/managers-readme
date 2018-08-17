@@ -25,7 +25,7 @@ We are currently working on culture / engineering culture at 4all, but we don’
 * It would be great if you feel comfortable to have initiative. Our evolution as a company can’t stop and you are a very important piece on this journey.
 * Be collaborative, as our CEO says "it’s impossible to create something great by yourself". Connect with people, we have incredible human beings here at 4all, so, take some advantage from it.
 * Share your failures, nobody is going to judge you. We have a safe environment to test things, don’t be afraid to teach us something that doesn’t work, you’ll be helping the company to not repeat mistakes.
-* For the God’s sake, be open minded. It doesn’t need to be hard to shift opinions. Embrace the impermanence of life.
+* For God’s sake, be open minded. It doesn’t need to be hard to shift opinions. Embrace the impermanence of life.
 * This one is special for me: be a positive influence in your team, it’s better for your mental health and for the company. You are going to feel better once you see yourself as an agent of the change than a complainer.
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
 
