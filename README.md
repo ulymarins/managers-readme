@@ -45,7 +45,7 @@ I firmly believe that feedback is at the core of building trust and respect in a
 * I get VERY happy when people around me suggest things to improve something IN our teamS/company/apps/apis/etc.
 * I get REALLY upset with complains without suggestions/actions. For real.
 
-Feel free to ask me to change/add something that you may think its useful for other direct reports..
+Feel free to ask me to change/add something that you may think its useful for other direct reports.
 
 
 
