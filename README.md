@@ -31,7 +31,7 @@ We are currently working on culture / engineering culture at 4all, but we don’
 
 ## 1:1
 
-At least once a month we’ll have moments to talk about some subjects which matter to you and me. 1-1s are very important to me because they are dedicated space for you to talk about anything and everything you want, they are meetings primarily for you, and only secondarily for me, It’s not a status meeting, unless you want to talk about status, 1-1s are flexible -- they can shift and change to fit around our shifting schedules. And oh, don’t save urgent matters for a 1-1. 
+At least once a month we’ll have moments to talk about some subjects which matter to you and me. 1-1s are very important to me because they are dedicated spaces for you to talk about anything and everything you want, they are meetings primarily for you, and only secondarily for me, It’s not a status meeting, unless you want to talk about status, 1-1s are flexible -- they can shift and change to fit around our shifting schedules. And oh, don’t save urgent matters for a 1-1. 
 
 More than any other factor, candid and compassionate feedback is central to a cohesive high-functioning team. Feedback is best received in the context of psychological safety; I want you to know, both intellectually and experientially, that my primary desire is for you to be happy and fulfilled. 
 
