@@ -40,9 +40,9 @@ I firmly believe that feedback is at the core of building trust and respect in a
 ## Things you should know about me
 
 * I love to work with technology and management and hacking and product and writing and mental models ad infinitum. I’m curious about several subjects. 
-* When I’m not in operating mode I’m always reading: "That's How Knowledge Works: It Builds Up, Like Compound Interest”.
-* I get VERY happy when people around me suggest things to improve something IN our teamS/company/apps/apis/etc.
-* I get REALLY upset with complains without suggestions/actions. For real.
+* When I’m not in operating mode I’m always reading: "That's how knowledge works: It builds up, like compound interest”.
+* I get VERY happy when people around me suggest things to improve something in our teams/company/apps/apis/etc.
+* I get REALLY upset with complaints without suggestions/actions. For real.
 
 Feel free to ask me to change/add something that you may think its useful for other direct reports.
 
