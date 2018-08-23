@@ -43,6 +43,7 @@ I firmly believe that feedback is at the core of building trust and respect in a
 * When I’m not in operating mode I’m always reading: "That's how knowledge works: It builds up, like compound interest”.
 * I get VERY happy when people around me suggest things to improve something in our teams/company/apps/apis/etc.
 * I get REALLY upset with complaints without suggestions/actions. For real.
+* On a regular day, I'm at the office from 8:30 AM to 5:00 PM, after that I'm reachable only via whatsapp/slack.
 
 Feel free to ask me to change/add something that you may think its useful for other direct reports.
 
