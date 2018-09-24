@@ -51,28 +51,28 @@ Below you can find links that I’ve read during my life and I’m sure they are
 
 **Startups and product**
 
-* [YC’s Essential Startup Advice] (https://blog.ycombinator.com/ycs-essential-startup-advice/)
-* [How to start a startup] (http://paulgraham.com/start.html)
+* [YC’s Essential Startup Advice](https://blog.ycombinator.com/ycs-essential-startup-advice/)
+* [How to start a startup](http://paulgraham.com/start.html)
 
 **Habits and self improvement**
-* [So good they can’t ignore you] (https://commoncog.com/blog/so-good-they-cant-ignore-you/)
-* [Habits vs Goals] (https://fs.blog/2017/06/habits-vs-goals/)
-* [Evidence-based advice on how to be successful] (https://80000hours.org/career-guide/how-to-be-successful/#top)
-* [Mediocrity is a virus, here’s how to banish from your life] (https://medium.com/the-mission/mediocrity-is-a-virus-heres-how-to-banish-it-from-your-life-257638ecf8f6#.im42uiio9)
-* [Cognitive Bias Codex] (https://cdn-images-1.medium.com/max/2000/1*Ckbqtl3uFuftfjYlE6KuTA.jpeg)
+* [So good they can’t ignore you](https://commoncog.com/blog/so-good-they-cant-ignore-you/)
+* [Habits vs Goals](https://fs.blog/2017/06/habits-vs-goals/)
+* [Evidence-based advice on how to be successful](https://80000hours.org/career-guide/how-to-be-successful/#top)
+* [Mediocrity is a virus, here’s how to banish from your life](https://medium.com/the-mission/mediocrity-is-a-virus-heres-how-to-banish-it-from-your-life-257638ecf8f6#.im42uiio9)
+* [Cognitive Bias Codex](https://cdn-images-1.medium.com/max/2000/1*Ckbqtl3uFuftfjYlE6KuTA.jpeg)
 
 **Software Development**
-* [Things I have learnt as the software engineering lead of a multinational] (https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/)
-* [Effective Engineer] (https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-* [A curated list of microservices architecture related principles and technologies] (https://github.com/mfornos/awesome-microservices)
+* [Things I have learnt as the software engineering lead of a multinational](https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/)
+* [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+* [A curated list of microservices architecture related principles and technologies](https://github.com/mfornos/awesome-microservices)
 
 **Leadership**
-* [42 rules to lead by from the an who defined Google’s Product Strategy] (http://firstround.com/review/42-Rules-to-Lead-by-from-the-Man-Who-Defined-Googles-Product-Strategy/)
-* [Complete guid for new managers] (https://www.officevibe.com/complete-guide-new-manager)
+* [42 rules to lead by from the an who defined Google’s Product Strategy](http://firstround.com/review/42-Rules-to-Lead-by-from-the-Man-Who-Defined-Googles-Product-Strategy/)
+* [Complete guid for new managers](https://www.officevibe.com/complete-guide-new-manager)
 
 **Inspiration** 
-- [The boy who could change the world] (https://monoskop.org/media/text/swartz/)
-- [Optimistic Nihilism] (https://www.youtube.com/watch?v=MBRqu0YOH14&t=192s)
+- [The boy who could change the world](https://monoskop.org/media/text/swartz/)
+- [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14&t=192s)
 
 
 Feel free to ask me to change/add something that you may think its useful for other direct reports.
