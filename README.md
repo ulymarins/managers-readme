@@ -67,7 +67,7 @@ Below you can find links that I’ve read during my life and I’m sure they are
 * [A curated list of microservices architecture related principles and technologies](https://github.com/mfornos/awesome-microservices)
 
 **Leadership**
-* [42 rules to lead by from the an who defined Google’s Product Strategy](http://firstround.com/review/42-Rules-to-Lead-by-from-the-Man-Who-Defined-Googles-Product-Strategy/)
+* [42 rules to lead by from the man who defined Google’s Product Strategy](http://firstround.com/review/42-Rules-to-Lead-by-from-the-Man-Who-Defined-Googles-Product-Strategy/)
 * [Complete guid for new managers](https://www.officevibe.com/complete-guide-new-manager)
 
 **Inspiration** 
