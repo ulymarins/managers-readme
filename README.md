@@ -74,6 +74,19 @@ Below you can find links that I’ve read during my life and I’m sure they are
 - [The boy who could change the world](https://monoskop.org/media/text/swartz/)
 - [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14&t=192s)
 
+**Incredible books** 
+- [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?ac=1&from_search=true)
+- [Relentless](https://www.goodreads.com/book/show/17354208-relentless?ac=1&from_search=true)
+- [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why?ac=1&from_search=true)
+- [So Good They Can't Ignore You](https://commoncog.com/blog/so-good-they-cant-ignore-you/)
+- [Clean Code](https://www.goodreads.com/book/show/3735293-clean-code?ac=1&from_search=true)
+- [Working Effectively with Legacy Code](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code?ac=1&from_search=true)
+- [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer?ac=1&from_search=true)
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices?from_search=true)
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design?ac=1&from_search=true)
+- [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
+- [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)
 
 Feel free to ask me to change/add something that you may think its useful for other direct reports.
 
