@@ -87,6 +87,7 @@ Below you can find links that I’ve read during my life and I’m sure they are
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design?ac=1&from_search=true)
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/book/show/18050143-zero-to-one?ac=1&from_search=true)
 - [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)
+- [Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger](https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack?ac=1&from_search=true)
 
 Feel free to ask me to change/add something that you may think its useful for other direct reports.
 
