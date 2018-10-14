@@ -74,6 +74,8 @@ Below you can find links that I’ve read during my life and I’m sure they are
 - [The boy who could change the world](https://monoskop.org/media/text/swartz/)
 - [Optimistic Nihilism](https://www.youtube.com/watch?v=MBRqu0YOH14&t=192s)
 
+## Some good books for you
+
 **Incredible books** 
 - [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?ac=1&from_search=true)
