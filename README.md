@@ -76,7 +76,6 @@ Below you can find links that I’ve read during my life and I’m sure they are
 
 ## Some good books for you
 
-**Incredible books** 
 - [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work)
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things?ac=1&from_search=true)
 - [Relentless](https://www.goodreads.com/book/show/17354208-relentless?ac=1&from_search=true)
