@@ -14,13 +14,9 @@ If I do something that negatively impacts my ability to retain you, you would be
 Some bullets to illustrate:
 
 * I'm here to make sure you are both successful and happy: I want you to improve your technical skills, develop your career, enjoy your work, and believe in both our team's and our company's mission;
-
 * I'm here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us; I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do;
-
 * I'm here to help and support you and set the context for what you're working on. It's part of my job to advocate for you and the team with the rest of the company;
-
 * I do a bunch of things here, very few of them are more important than spending time talking with you if you want to speak with me. Feel entirely free to put time on my calendar to talk whenever you want;
-
 * Technically speaking: you can count on me to discuss our architecture, technical vision, solutions for specific problems we may have, and to raise the bar regarding our systems. I will double down on your suggestions to improve our general state.
 
 ## What do I value most?
@@ -101,3 +97,5 @@ Below you can find links that I've read during my life, and I'm sure they will a
 -  [Thinking, fast and slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow?ac=1&from_search=true)
 
 Feel free to ask me to change/add something that you may think is useful for other team members.
+
+Thanks for reading.
