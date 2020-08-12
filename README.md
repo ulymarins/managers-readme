@@ -45,6 +45,7 @@ I firmly believe that feedback is at the core of building trust and respect in a
 * I get delighted when people around me suggest things to improve something in our company, teams, software, etc;
 * I get distraught with complaints without suggestions and actions. For real;
 * On a regular day, I'm usually at the office or online from 8:30 AM to 5:30 PM. After that, I'm reachable only via phone or Whatsapp/slack.
+* I'm a morning person, you can get the best out of me from 8 to around 15.
 
 ## Some good content for you
 
