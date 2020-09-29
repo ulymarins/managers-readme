@@ -1,13 +1,12 @@
-
 # uly's readme
 
 ## What is this, even?
 
-Hey, hi! I'm Uly, and this document, like me, is a work in progress. It exists to provide you a clear way to understand how we can make the most of our work relationships.
+Hey, hi! I'm Uly, and this document, like me, is a work in progress. It exists to provide you a straightforward way to understand how we can make the most of our work relationship.
 
 ## What the heck I do here?
 
-It's crucial to understand what the company expects from me and what I expect from you. At the most basic level, my role is to keep teams happy, safe, and productive, shipping great products often and with quality. I really care about the health, performance, and stability of the teams and our applications. I'll do everything I can to keep everybody energized and with all the necessary tools to do a great job.
+It's crucial to understand what the company expects from me and what I expect from you. My role is to keep teams happy, safe, and productive at the most basic level, shipping impactful software often and with quality. I really care about the health, performance, and stability of the teams and our applications. I'll do everything I can to keep everybody energized and with all the necessary tools to do a great job.
 
 If I do something that negatively impacts my ability to retain you, you would be doing me a huge favor if you let me know about it as soon as possible. If I do something that feels more like telling you how to do your job than setting the context, you'd be doing me a huge favor if you let me know about it as soon as possible.
 
@@ -21,18 +20,18 @@ Some bullets to illustrate:
 
 ## What do I value most?
 
-* We need each other to make a significant impact, and I expect resilience and proactivity to solve our challenges, as a unity. You should communicate with your team clearly and concisely; #IMakeItHappen
+* We need each other to make a significant impact, and I expect resilience and proactivity to solve our challenges as a unity. You should communicate with your team clearly and concisely; #IMakeItHappen
 * It would be great if you feel comfortable to have initiative. Our evolution as a company can't stop, and you are an essential piece on this journey. I encourage you to often bring your ideas and suggestions to our daily standups or team meetings; #SpeakUp
 * Share your failures, nobody is going to judge you. We have a safe environment to test things, don't be afraid to teach us something that doesn't work, and help the company not repeat mistakes; #MistakesOfferOpportunities
 * Be open-minded. It doesn't need to be hard to shift opinions. Embrace the impermanence of life. The only constant in life is change; #StrongThroughDiversity
-* This one is special for me: be a positive influence in your team, it's better for your mental health and for the company. You will feel better once you see yourself as an agent of the change than a complainer; #WeAreOne
+* This one is special for me: be a positive influence in your team; it's better for your mental health and for the company. You will feel better once you see yourself as an agent of the change than a complainer; #WeAreOne
 * I value transparency about what happened, what's happening, and what's going to happen.
 
 ## 1:1
 
-At least twice a month we'll have moments to talk about some subjects which matter to you and me. 1-1s are very important to me because they are dedicated spaces for you to talk about anything and everything you want. They are meetings primarily for you, and only secondarily for me.
+At least twice a month, we'll have moments to talk about some subjects which matter to you and me. 1-1s are very important to me because they are dedicated spaces for you to talk about everything you want. They are meetings primarily for you, and only secondarily for me.
 
-It's not a status meeting unless you want to talk about status, 1-1s are flexible -- they can shift and change to fit around our shifting schedules. And oh, don't save urgent matters for a 1-1.
+It's not a status meeting unless you want to talk about status; 1-1s are flexible - they can shift and change to fit around our shifting schedules. And oh, don't save urgent matters for a 1-1.
 
 More than any other factor, candid and compassionate feedback is central to a cohesive, high-functioning team. Feedback is best received in the context of psychological safety; I want you to know, both intellectually and experientially, that my primary desire is to you to be happy and fulfilled.
 
@@ -42,10 +41,10 @@ I firmly believe that feedback is at the core of building trust and respect in a
 
 * I love to work with technology, management and hacking, product and writing, and mental models ad infinitum. I'm curious about several subjects;
 * When I'm not in operating mode, I'm always reading. That's how knowledge works: It builds up, like compound interest;
-* I get delighted when people around me suggest things to improve something in our company, teams, software, etc;
+* I get delighted when people around me suggest things to improve something in our company, teams, software, etc.;
 * I get distraught with complaints without suggestions and actions. For real;
 * On a regular day, I'm usually at the office or online from 8:30 AM to 5:30 PM. After that, I'm reachable only via phone or Whatsapp/slack.
-* I'm a morning person, you can get the best out of me from 8 to around 15.
+* I'm a morning person; you can get the best out of me from 8 to around 15.
 
 ## Some good content for you
 
